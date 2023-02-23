@@ -1,4 +1,7 @@
-### Hi there 👋
+# New Text Corp
+
+We write for and about AI. 
+
 
 <!--
 **textmadenew/textmadenew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
